@@ -9,6 +9,8 @@
 
     <title>APP UNIV</title>
 
+    <link rel="shortcut icon" href="{{ asset('favicon.png') }}">
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
 
